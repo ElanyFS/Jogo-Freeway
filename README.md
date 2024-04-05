@@ -11,7 +11,7 @@ Esta aplicação é um jogo cujo objetivo é atravessar um personagem (um boneco
 
 ## 🛠️ Tecnologias
 ° HTML
-
+<img src="imagens/icons/html.png" width="50" height="50">
 ° CSS
 
 ° JavaScript
