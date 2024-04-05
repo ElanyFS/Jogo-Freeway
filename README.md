@@ -1,6 +1,6 @@
 # Jogo Freeway
 
-![](imagens/JogoFreeway.gif)
+![](imagens/icons/JogoFreeway.gif)
 
 ## 📖 Descrição
 
