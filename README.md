@@ -6,7 +6,7 @@
 
 Esta aplicação é um jogo cujo objetivo é atravessar um personagem (um boneco) até o outro lado da rua sem ser atingido pelos carros. A cada travessia bem-sucedida, o jogador acumula pontos, mas cada colisão com um veículo resulta na diminuição desses pontos. O projeto foi desenvolvido durante o curso de JavaScript na Alura.
 
-## Objetivo
+## 🎯 Objetivo
 ° Levar o personagem até o outro lado da rua e acumular pontos.
 
 ## 🛠️ Tecnologias
@@ -22,7 +22,7 @@ A preparação do ambiente consiste em instalar a ferramenta, instalar e habilit
 
 ## 🌎 Implementações Futuras
 
-° Adicionar quantidade de vidas
+📌 Adicionar quantidade de vidas
+ 
 
-## 🔎 Status do Projeto
-Concluído
+
