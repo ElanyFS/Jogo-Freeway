@@ -10,11 +10,11 @@ function mostrarAtor() {
 }
 
 function movimentaAtor() {
-  if (keyIsDown(UP_ARROW)) {
+  if (keyIsDown(UP_ARROW) || touches.length > 0 && touches[0].y < yAtor) {
     yAtor -= 2;
   }
 
-  if (keyIsDown(DOWN_ARROW)) {
+  if (keyIsDown(DOWN_ARROW) || touches.length > 0 && touches[0].y > yAtor) {
     yAtor += 2;
   }
 
@@ -32,7 +32,7 @@ function verificarColisao() {
       alturaCarro,
       xAtor,
       yAtor,
-      15
+      30
     );
 
     if (colisao) {
