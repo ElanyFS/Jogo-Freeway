@@ -10,11 +10,10 @@ Esta aplicação é um jogo cujo objetivo é atravessar um personagem (um boneco
 ° Levar o personagem até o outro lado da rua e acumular pontos.
 
 ## 🛠️ Tecnologias
-° HTML
-<img src="imagens/icons/html.png" width="50" height="50">
-° CSS
 
-° JavaScript
+° <img src="imagens/icons/html.png" width="50" height="50">
+° <img src="imagens/icons/css.png" width="50" height="50">
+° <img src="imagens/icons/js.png" width="50" height="50">
 
 ## ⌛ Inicialização
 
