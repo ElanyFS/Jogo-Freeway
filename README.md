@@ -23,6 +23,6 @@ A preparação do ambiente consiste em instalar a ferramenta, instalar e habilit
 ## 🌎 Implementações Futuras
 
 📌 Adicionar quantidade de vidas
-<hr>
+
 🔗: jogo-freeway-rosy.vercel.app
 
